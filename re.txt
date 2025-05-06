@@ -1,0 +1,9 @@
+flask
+vosk
+sounddevice
+pyttsx3
+argostranslate
+deep-translator
+googletrans==3.1.0a0
+gtts
+pygame

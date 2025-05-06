@@ -1,1 +1,1 @@
-# nlp-powered-offline-speech-to-speech-translation-system
+# offline-s2s-translator

@@ -1,0 +1,47 @@
+2025-04-15 13:32:03,569 - INFO: Installed translation package: en to hi
+2025-04-15 13:32:24,412 - INFO: Installed translation package: hi to en
+2025-04-15 13:32:51,915 - INFO: Installed translation package: en to es
+2025-04-15 13:33:24,760 - INFO: Installed translation package: es to en
+2025-04-15 13:33:34,770 - INFO: Installed translation package: en to de
+2025-04-15 13:33:44,001 - INFO: Installed translation package: de to en
+2025-04-15 13:34:02,145 - INFO: Installed translation package: en to ja
+2025-04-15 13:34:21,234 - INFO: Installed translation package: ja to en
+2025-04-15 13:34:29,009 - INFO: Installed translation package: en to zh
+2025-04-15 13:34:36,504 - INFO: Installed translation package: zh to en
+2025-04-15 13:34:36,694 - INFO: Current Working Directory: E:\klaus\2025\offline-s2s-translator-main
+2025-04-15 13:34:36,718 - INFO: Script Location: E:\klaus\2025\offline-s2s-translator-main
+2025-04-15 13:34:36,719 - INFO: Language: en
+2025-04-15 13:34:36,719 - INFO: Model Path: E:\klaus\2025\offline-s2s-translator-main\models\vosk-model-small-en-us-0.15
+2025-04-15 13:34:36,748 - INFO: Path Exists: True
+2025-04-15 13:34:36,748 - INFO: Language: hi
+2025-04-15 13:34:36,748 - INFO: Model Path: E:\klaus\2025\offline-s2s-translator-main\models\vosk-model-small-hi-0.22
+2025-04-15 13:34:36,748 - INFO: Path Exists: True
+2025-04-15 13:34:36,748 - INFO: Language: es
+2025-04-15 13:34:36,748 - INFO: Model Path: E:\klaus\2025\offline-s2s-translator-main\models\vosk-model-small-es-0.42
+2025-04-15 13:34:36,748 - INFO: Path Exists: True
+2025-04-15 13:34:36,748 - INFO: Language: de
+2025-04-15 13:34:36,753 - INFO: Model Path: E:\klaus\2025\offline-s2s-translator-main\models\vosk-model-small-de-0.15
+2025-04-15 13:34:36,753 - INFO: Path Exists: True
+2025-04-15 13:34:36,753 - INFO: Language: ja
+2025-04-15 13:34:36,753 - INFO: Model Path: E:\klaus\2025\offline-s2s-translator-main\models\vosk-model-small-ja-0.22
+2025-04-15 13:34:36,754 - INFO: Path Exists: True
+2025-04-15 13:34:36,754 - INFO: Language: zh
+2025-04-15 13:34:36,754 - INFO: Model Path: E:\klaus\2025\offline-s2s-translator-main\models\vosk-model-small-cn-0.22
+2025-04-15 13:34:36,754 - INFO: Path Exists: True
+2025-04-15 13:34:37,299 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-15 13:34:37,300 - INFO: [33mPress CTRL+C to quit[0m
+2025-04-15 13:35:01,476 - INFO: 127.0.0.1 - - [15/Apr/2025 13:35:01] "GET / HTTP/1.1" 200 -
+2025-04-15 13:35:01,746 - INFO: 127.0.0.1 - - [15/Apr/2025 13:35:01] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-15 13:35:01,796 - INFO: 127.0.0.1 - - [15/Apr/2025 13:35:01] "GET /static/bg-img.jpg HTTP/1.1" 200 -
+2025-04-15 13:35:01,809 - INFO: 127.0.0.1 - - [15/Apr/2025 13:35:01] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-15 13:35:01,837 - INFO: 127.0.0.1 - - [15/Apr/2025 13:35:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-15 13:35:04,724 - INFO: Validating Vosk model at: E:\klaus\2025\offline-s2s-translator-main\models\vosk-model-small-en-us-0.15
+2025-04-15 13:35:04,725 - ERROR: Missing crucial model files: ['model.json', 'final.mdl', 'conf', 'words.txt']
+2025-04-15 13:35:04,726 - INFO: Files in model directory: ['vosk-model-small-en-us-0.15']
+2025-04-15 13:35:04,727 - ERROR: Translation Route Error: Incomplete Vosk model: Missing ['model.json', 'final.mdl', 'conf', 'words.txt']
+2025-04-15 13:35:04,730 - INFO: 127.0.0.1 - - [15/Apr/2025 13:35:04] "[35m[1mPOST /translate HTTP/1.1[0m" 500 -
+2025-04-15 13:53:21,442 - INFO: Installed translation package: en to hi
+2025-04-15 13:53:32,510 - INFO: Installed translation package: hi to en
+2025-04-15 13:53:41,111 - INFO: Installed translation package: en to es
+2025-04-15 13:54:10,593 - INFO: Installed translation package: es to en
